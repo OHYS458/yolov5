@@ -1,0 +1,11 @@
+# Custom vehicle dataset for YOLOv5
+path: /Users/ohys/Desktop/yolov5/datasets/vehicles
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: car
+  1: truck
+  2: bus
+  3: bicycle
